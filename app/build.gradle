@@ -1,20 +1,40 @@
 apply plugin: 'com.android.application'
 
+repositories {
+    jcenter();
+}
+
 android {
+    def relVersionCode = 10
+    def relVersionName = "1.0"
     compileSdkVersion 26
-    buildToolsVersion "26.0.1"
+    buildToolsVersion "26.0.2"
     defaultConfig {
-        applicationId "com.example.administrator.screenoffroot"
-        minSdkVersion 19
+        applicationId "g7.lockscreenroot"
+        minSdkVersion 9
         targetSdkVersion 26
-        versionCode 1
-        versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+        normal {
+            versionCode relVersionCode
+            versionName relVersionName
+            buildConfigField "boolean", "ENABLE_EXTENDED_TAP_TARGETS", "false"
+        }
+        extended {
+            versionCode relVersionCode * 10
+            versionName relVersionName
+            buildConfigField "boolean", "ENABLE_EXTENDED_TAP_TARGETS", "true"
         }
     }
 }
@@ -24,8 +44,8 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-    compile 'com.android.support:appcompat-v7:26.+'
-    compile 'com.android.support:design:26.+'
+    //compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
+    provided 'de.robv.android.xposed:api:82'
 }

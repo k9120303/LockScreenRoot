@@ -3,156 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\777733f7401354ef1102588cddc36943ea430e84\output\jars\classes.jar"
+        jar="D:\LockScreenAllInOneRoot\app\build\intermediates\incremental-classes\extended\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="26.0.1"
-        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c5c07cea6a9a63e7d4b19b2d49319d9bd62b0cf\classes.dex" />
+        revision="26.0.2"
+        sha1="d8bbbde6a121e57b8d9ac563f8dd0f34ada232d6">
+        <dex dex="D:\LockScreenAllInOneRoot\app\build\intermediates\transforms\dex\extended\debug\folders\1000\10000\instant-run-bootstrap_d1daaba2bfad8cbd98c5e7071fbbe58add7b519b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\6148febc12740e9e06c2d1621b19b6893b177a54\output\jars\classes.jar"
+        jar="D:\LockScreenAllInOneRoot\app\build\intermediates\incremental-runtime-classes\extended\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="26.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e229696cb62c2eb4c05f1b69ac96aaf07a613e7c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\bc7f3797febab6723cbb45c9224dcca0f1cceecc\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0988f62468ca904559705353d38380dc9ff12d0e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\b788950f705dffd331a00a476c94eff7d4d8d9bc\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d6d1131c4347ded9f800499ee85d499e2df6753\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\2c99676c834a7cd70e63d8b9f60735ddf7e7a2f8\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6089bfd343db5005f998922bd2effe2787ac09ba\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\e12a1aef549374a9e833519d07895f1fb0833fa5\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05001ea4592d5d670615c38dbc902ae713896a32\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\b59f962930d2b75f34204efde09f27a790931472\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dccc0605f1c527647634dcc305040b4f0bddcaad\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\9e2cdea48e9accb32998a0562976aa05e466b4d9\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eedd6b549cb069092f624bcc1985e021bc492ae1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\3cab35dbfa8cc35f617cc146b925353886ea19a5\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30272c629f3e2e9f109e10ad5bc852a711c053b5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_d573760ead3216a5cc2d1e922f713bd8454b87f7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\db1e4507e73c53bf4e5f457289c2d7d0149941ea\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2893d99121b8b00935209190d2825865a718624\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\ScreenOff(root)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="df4c4d68f83e16de2241f4ea3f03e86d28037622">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b6cec9421d46d23193fbf8e4545be3a9b301f2b7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_a37fcc1c2dd8cccb8456557b30a1911d95fab1c7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\ScreenOff(root)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
+        revision="26.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_57f107398b90370cdd396306239afa73e88cc91e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\9824a0e23487a1ed054d15657cb8f8fab0bb65f6\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38e30fdd659ac89c44a5b549259181989a7fb03f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\2c4f193f1191e28fb1b34cacbc24977560e46d22\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fdafbe13b8a79d10c58f1b5f82f2f4c6833c7d9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\c42d00d5bbaceb7059822bd0abf1d4e7aadb483a\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
-        <dex dex="D:\ScreenOff(root)\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c93dfbaf0e1fd52db8f48c6952f89a05dc4c5dc\classes.dex" />
+        <dex dex="D:\LockScreenAllInOneRoot\app\build\intermediates\transforms\dex\extended\debug\folders\1000\10000\instant-run_dda38be1d238ac05fb916bf5404d8ca0ef29f234\classes.dex" />
     </item>
 
 </items>
